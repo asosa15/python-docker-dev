@@ -46,7 +46,6 @@ services:
 # secrets:
 #   db-password:
 #     file: db/password.txt
-
 # services:
 #   server:
 #     build:
@@ -83,5 +82,4 @@ volumes:
 secrets:
   db-password:
     file: ./db/password.txt
-
 
